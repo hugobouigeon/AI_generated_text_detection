@@ -6,6 +6,8 @@ For this project, we explored different approaches to best classify between huma
 
 This allowed us to atteign a 92% accuracy score on a balanced data-set, earning us first place among all competitors of the associated Kaggle challenge.
 
+More details on our implemenation can be found in the project report. 
+
 Link to the Kaggle challenge: https://www.kaggle.com/competitions/inf582-2023
 
 ## Contributors
