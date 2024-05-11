@@ -10,8 +10,8 @@ Link to the Kaggle challenge: https://www.kaggle.com/competitions/inf582-2023
 
 ## Contributors
 
+Thomas Li
+
 Hugo Bouigeon
 
 Jules Potel
-
-Thomas Li
